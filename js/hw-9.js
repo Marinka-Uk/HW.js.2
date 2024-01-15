@@ -14,14 +14,14 @@
 
 
 //3.Створити скрипт який поверне суму всіх чисел в масиві.
-const landArray = [3, 7, 12, 5, 8];
-let sum = 0;
+// const landArray = [3, 7, 12, 5, 8];
+// let sum = 0;
 
-for (const number of landArray) {
-  sum += number;
-}
+// for (const number of landArray) {
+//   sum += number;
+// }
 
-console.log("Сума всіх чисел у масиві: " + sum);
+// console.log("Сума всіх чисел у масиві: " + sum);
 
 
 //5.Створити масив із 5-ти рядків. Вивести на екран кожен рядокз масиву, який містить більше 5-ти символів.
