@@ -131,3 +131,6 @@ const calculateTotalPrice = function (allProducts, productName) {
   console.log(calculateTotalPrice(products, 'us-2')); 
   console.log(calculateTotalPrice(products, 'us-1')); 
   
+
+
+  0000000000
